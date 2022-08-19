@@ -3,8 +3,8 @@
 <head>
         <!-- meta tag -->
         <meta charset="utf-8">
-        <title>Edulearn | Responsive Education HTML5 Template</title>
-        <meta name="description" content="">
+        <title>First Honour Schools</title>
+        <meta name="description" content=" a privately owned nursery, primary and secondary school where lifelong learners are raised.">
         <!-- responsive tag -->
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -63,7 +63,7 @@
 						<div class="col-md-6">
 							<div class="rs-toolbar-left">
 								<div class="welcome-message">
-									<i class="fa fa-bank"></i><span>Welcome to First-Honour Schools</span> 
+									<i class="fa fa-bank"></i><span>Welcome to First Honour Schools</span> 
 								</div>
 							</div>
 						</div>
@@ -99,7 +99,7 @@
 						                <div class="info-text">
 						                    <a href="mailto:info@domain.com">
 						                    	<span>Mail Us</span>
-												info@domain.com
+												info@firsthonourschools.com.ng
 											</a>
 						                </div>
 						            </div>
@@ -115,9 +115,9 @@
 						            <div id="phone-details" class="widget-text">
 						                <i class="glyph-icon flaticon-phone-call"></i>
 						                <div class="info-text">
-						                    <a href="tel:4155551234">
+						                    <a href="tel:+2349034234983">
 						                    	<span>Call Us</span>
-												+1234-567-890
+												+234 903 423 4983
 											</a>
 						                </div>
 						            </div>
@@ -142,45 +142,41 @@
 										<ul class="nav-menu">
 											<!-- Home -->
 											<li class="current-menu-item current_page_item menu-item-has-children"> 
-												<a href="#" class="home">Home</a>
+												<a href="#home-slider" class="home">Home</a>
 											</li>
 											<!-- End Home --> 
                                             
                                             <!--About Menu Start-->
                                             <li class="menu-item-has-children"> 
-												<a href="#">About Us</a>
+												<a href="#rs-about">About Us</a>
                                             </li>
                                             <!--About Menu End--> 
 
 											<!--Courses Menu Start-->
 		                                    <li class="menu-item-has-children">
-												<a href="#">Our Classes</a>
+												<a href="#rs-courses">Our Classes</a>
 		                                    </li>
 		                                    <!--Courses Menu End-->
                                             
 											<!--Events Menu Start-->
 											<li class="menu-item-has-children">
-												<a href="#">Facilities</a>
+												<a href="#rs-products">Facilities</a>
 											</li>
 											<!--Events Menu End-->
                                             
 											
 											<!--blog Menu Start-->
 											<li class="menu-item-has-children"> 
-												<a href="#">Testimonies</a>
+												<a href="#rs-testimonial">Testimonies</a>
 											</li>
 											<!--blog Menu End-->
                                             
 											<!--Contact Menu Start-->
-											<li> <a href="#">Contact</a></li>
+											<li> <a href="#rs-footer">Contact</a></li>
 								            <!--Contact Menu End-->
 										</ul>
 									</nav>
-                                    <div class="right-bar-icon rs-offcanvas-link text-right">
-                                        <a class="hidden-xs rs-search" data-target=".search-modal" data-toggle="modal" href="#"><i class="fa fa-search"></i></a>
-
-                                        <a id="nav-expander" class="nav-expander fixed"><i class="fa fa-bars fa-lg white"></i></a>
-                                    </div>
+                                   8
 								</div>
 							</div>
 						</div>
@@ -204,7 +200,7 @@
 							<div class="display-table-cell">
 								<div class="container text-center">
 									<h1 class="slider-title" data-animation-in="fadeInLeft" data-animation-out="animate-out">Welcome to First-Honour Schools</h1>
-									<p data-animation-in="fadeInUp" data-animation-out="animate-out" class="slider-desc">Fusce sem dolor, interdum in efficitur at, faucibus nec lorem.Sed nec molestie justo.<br class="hidden-sm-dow"> Nunc quis sapien in arcu pharetra volutpat.Morbi nec vulputate dolor.</p>  
+									<p data-animation-in="fadeInUp" data-animation-out="animate-out" class="slider-desc">... a privately owned nursery, primary and secondary school where lifelong learners are raised. </p>  
 									<a href="#" class="sl-readmore-btn mr-30" data-animation-in="lightSpeedIn" data-animation-out="animate-out">READ MORE</a>
 									<a href="#" class="sl-get-started-btn" data-animation-in="lightSpeedIn" data-animation-out="animate-out">GET STARTED NOW</a>
 								</div>
@@ -221,7 +217,7 @@
 							<div class="display-table-cell">
 								<div class="container text-center">
 									<h1 class="slider-title" data-animation-in="fadeInUp" data-animation-out="animate-out">Welcome to First Honour Schools</h1>
-									<p data-animation-in="fadeInUp" data-animation-out="animate-out" class="slider-desc">Fusce sem dolor, interdum in efficitur at, faucibus nec lorem.Sed nec molestie justo.<br class="hidden-sm-dow"> Nunc quis sapien in arcu pharetra volutpat.Morbi nec vulputate dolor.</p>  
+									<p data-animation-in="fadeInUp" data-animation-out="animate-out" class="slider-desc">... a privately owned nursery, primary and secondary school where lifelong learners are raised. </p>  
 									<a href="#" class="sl-readmore-btn mr-30" data-animation-in="fadeInUp" data-animation-out="animate-out">READ MORE</a>
 									<a href="#" class="sl-get-started-btn" data-animation-in="fadeInUp" data-animation-out="animate-out">GET STARTED NOW</a>
 								</div>
@@ -238,7 +234,7 @@
 							<div class="display-table-cell">
 								<div class="container text-center">
 									<h1 class="slider-title" data-animation-in="fadeInUp" data-animation-out="animate-out">Welcome to First Honour Schools</h1>
-									<p data-animation-in="fadeInUp" data-animation-out="animate-out" class="slider-desc">Fusce sem dolor, interdum in efficitur at, faucibus nec lorem.Sed nec molestie justo.<br> Nunc quis sapien in arcu pharetra volutpat.Morbi nec vulputate dolor.</p>  
+									<p data-animation-in="fadeInUp" data-animation-out="animate-out" class="slider-desc">... a privately owned nursery, primary and secondary school where lifelong learners are raised.</p>  
 									<a href="#" class="sl-readmore-btn mr-30" data-animation-in="fadeInUp" data-animation-out="animate-out">READ MORE</a>
 									<a href="#" class="sl-get-started-btn" data-animation-in="fadeInUp" data-animation-out="animate-out">GET STARTED NOW</a>
 								</div>
@@ -252,7 +248,7 @@
         <!-- Slider Area End -->
 		
 		<!-- Services Start -->
-        <div class="rs-services rs-services-style1">
+        <div  class="rs-services rs-services-style1">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-3 col-md-6">
@@ -480,7 +476,7 @@
         </div>
         <!-- Courses End -->
 				<!-- Facilities Start -->
-				<div id="rs-products" class="rs-products sec-spacer sec-color">
+		<div id="rs-products" class="rs-products sec-spacer sec-color">
 			<div class="container">
 				<div class="sec-title mb-50 text-center">
 					<h2>OUR Facilities</h2>      
@@ -517,7 +513,7 @@
 					<div class="product-item">
 						<div class="product-img">
 	                    	<a href="#">
-	                        	<img src="images/products/4.jpg" alt="" />
+	                        	<img src="images/slider/home1/hostel.jpg" alt="" />
 	                    	</a>
 	                    </div>
                     	<h4 class="product-title"><a href="#">Hostel facilities</a></h4>
@@ -544,7 +540,7 @@
 					<div class="product-item">
 						<div class="product-img">
 	                    	<a href="#">
-	                        	<img src="images/products/4.jpg" alt="" />
+	                        	<img src="images/slider/home1/sport.jpg" alt="" />
 	                    	</a>
 	                    </div>
                     	<h4 class="product-title"><a href="#">Sporting facilities</a></h4>
@@ -567,7 +563,7 @@
                 				<p>Over the years, the concerted efforts of the school management, teachers, parents and learners have yielded awesome results.</p>
                 			</div>
                 			<div class="counter-img rs-image-effect-shine">
-                				<img src="images/slider/home1/snr.jpg" alt="Counter Discussion">
+                				<img src="images/slider/home1/award.png" alt="Counter Discussion">
                 			</div>
                 		</div>
                 	</div>
@@ -619,26 +615,6 @@
             </div>
         </div>
         <!-- Calltoaction End -->
-
-
-		<!-- Newslatter Start -->
-<!--
-        <div id="rs-newslatter" class="rs-newslatter sec-black sec-spacer">
-            <div class="container">
-                <div class="row rs-vertical-middle">
-                    <div class="col-md-6">
-                        <h3 class="newslatter-title">STAY CONNECTED WITH US</h3>
-                    </div>
-                    <div class="col-md-6 text-right">
-                        <form class="newslatter-form">
-                            <input type="text" class="form-input" placeholder="Enter Your Email Address">
-                            <button type="submit" class="form-button">SUBSCRIBE</button>
-                        </form>						
-                    </div>
-                </div>
-            </div>
-        </div>
--->
 
 		<!-- Testimonial Start -->
         <div id="rs-testimonial" class="rs-testimonial bg5 sec-spacer">
@@ -783,56 +759,31 @@
             <div class="footer-top">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-3 col-md-12">
+                        <div class="col-lg-4 col-md-12">
                             <div class="about-widget">
                                 <img src="images/logo-footer.png" alt="Footer Logo">
-                                <p>We create Premium Html Themes for more than three years. Our team goal is to reunite the elegance of unique.</p>
-                                <p class="margin-remove">We create Unique and Easy To Use Flexible Html Themes.</p>
+                                <p>Founded October 8, 2014 with the sole mission of stimulating learners to become passionate lifelong learners.</p>
+                                <p class="margin-remove">We have preschool, nursery, primary and secondary classes.</p>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-md-12">
-                            <h5 class="footer-title">RECENT POSTS</h5>
-                            <div class="recent-post-widget">
-                                <div class="post-item">
-                                    <div class="post-date">
-                                        <span>28</span>
-                                        <span>June</span>
-                                    </div>
-                                    <div class="post-desc">
-                                        <h5 class="post-title"><a href="#">While the lovely valley team work</a></h5>
-                                        <span class="post-category">Keyword Analysis</span>
-                                    </div>
-                                </div>
-                                <div class="post-item">
-                                    <div class="post-date">
-                                        <span>28</span>
-                                        <span>June</span>
-                                    </div>
-                                    <div class="post-desc">
-                                        <h5 class="post-title"><a href="#">I must explain to you how all this idea</a></h5>
-                                        <span class="post-category">Spoken English</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-12">
+					
+                                            
+											
+                        <div class="col-lg-4 col-md-12">
                             <h5 class="footer-title">OUR SITEMAP</h5>
                             <ul class="sitemap-widget">
-                                <li class="active"><a href="index.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Home</a></li>
-                                <li ><a href="about.html"><i class="fa fa-angle-right" aria-hidden="true"></i>About</a></li>
-                                <li><a href="courses.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Courses</a></li>
-                                <li><a href="courses-details.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Courses Details</a></li>
-                                <li><a href="events.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Events</a></li>
-                                <li><a href="events-details.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Events Details</a></li>                                
-                                <li><a href="blog.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Blog</a></li>
-                                <li><a href="blog-details.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Blog Details</a></li>
-                                <li><a href="teachers.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Teachers</a></li>
-                                <li><a href="teachers-single.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Teachers Details</a></li>
-                                <li><a href="contact.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Contact</a></li>
-                                <li><a href="error-404.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Error 404</a></li>
+                                <li class="active"><a href="#home-slider"><i class="fa fa-angle-right" aria-hidden="true"></i>Home</a></li>
+								<li><a href="portal/student.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Portal - Learner's Login</a></li>
+                                <li ><a href="#rs-about"><i class="fa fa-angle-right" aria-hidden="true"></i>About</a></li>
+								<li><a href="portal/staff.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Portal - Staff's Login</a></li>
+                                <li><a href="#rs-courses"><i class="fa fa-angle-right" aria-hidden="true"></i>Our Classes</a></li>
+								<li><a href="portal/admin.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Portal - Admin's Login</a></li>
+                                <li><a href="#rs-products"><i class="fa fa-angle-right" aria-hidden="true"></i>Facilities</a></li>
+                                
+                                
                             </ul>
                         </div>
-                        <div class="col-lg-3 col-md-12">
+                        <div class="col-lg-4 col-md-12">
                             <h5 class="footer-title">NEWSLETTER</h5>
                             <p>Sign Up to Our Newsletter to Get Latest Updates &amp; Services</p>
                             <form class="news-form">
@@ -857,7 +808,7 @@
             <div class="footer-bottom">
                 <div class="container">
                     <div class="copyright">
-                        <p>© 2018 <a href="#">RS Theme</a>. All Rights Reserved.</p>
+                        <p>© <?php echo date("Y")?> <a href="#">First Honour Schools</a>. All Rights Reserved.</p>
                     </div>
                 </div>
             </div>
@@ -869,107 +820,6 @@
             <i class="fa fa-angle-up"></i>
         </div>
 		
-		<!-- Canvas Menu start -->
-        <nav class="right_menu_togle">
-        	<div class="close-btn"><span id="nav-close" class="text-center">x</span></div>
-            <div class="canvas-logo">
-                <a href="index.html"><img src="images/logo-white.png" alt="logo"></a>
-            </div>
-        	<ul class="sidebarnav_menu list-unstyled main-menu">
-                <!--Home Menu Start-->
-                <li class="current-menu-item menu-item-has-children"><a href="#">Home</a>
-                    <ul class="list-unstyled">
-                        <li class="sub-nav active"><a href="index.html">Home One<span class="icon"></span></a></li>
-                        <li class="sub-nav"><a href="index2.html">Home Two<span class="icon"></span></a></li>
-                        <li class="sub-nav"><a href="index3.html">Home Three<span class="icon"></span></a></li>
-                        <li class="sub-nav"><a href="index4.html">Home Four<span class="icon"></span></a></li>
-                    </ul>
-                </li>
-                <!--Home Menu End-->
-                
-                <!--About Menu Start-->
-                <li class="menu-item-has-children"><a href="#">About Us</a>
-                    <ul class="list-unstyled">
-                        <li class="sub-nav active"><a href="index.html">About One<span class="icon"></span></a></li>
-                        <li class="sub-nav"><a href="index2.html">About Two<span class="icon"></span></a></li>
-                        <li class="sub-nav"><a href="index3.html">About Three<span class="icon"></span></a></li>
-                    </ul>
-                </li>
-                <!--About Menu End-->
-                
-                <!--Pages Menu Start-->
-                <li class="menu-item-has-children"><a href="#">Pages</a>
-                    <ul class="list-unstyled">
-                        <li class="sub-nav active"><a href="teachers.html">Teachers<span class="icon"></span></a></li>
-                        <li class="sub-nav"><a href="teachers-without-filter.html">Teachers Without Filter<span class="icon"></span></a></li>
-                        <li class="sub-nav"><a href="teachers-single.html">Teachers Single<span class="icon"></span></a></li>
-                        <li class="sub-nav"><a href="gallery.html">Gallery One<span class="icon"></span></a></li>
-                        <li class="sub-nav"><a href="gallery2.html">Gallery Two<span class="icon"></span></a></li>
-                        <li class="sub-nav"><a href="gallery3.html">Gallery Three<span class="icon"></span></a></li>
-                        <li class="sub-nav"><a href="shop.html">Shop<span class="icon"></span></a></li>
-                        <li class="sub-nav"><a href="shop-details.html">Shop Details<span class="icon"></span></a></li>
-                        <li class="sub-nav"><a href="cart.html">Cart<span class="icon"></span></a></li>
-                        <li class="sub-nav"><a href="shop.html">Shop<span class="icon"></span></a></li>
-                        <li class="sub-nav"><a href="error-404.html">Error 404<span class="icon"></span></a></li>
-                    </ul>
-                </li>
-                <!--Pages Menu End-->
-                
-                <!--Courses Menu Star-->
-                <li class="menu-item-has-children"><a href="#">Courses</a>
-                    <ul class="list-unstyled">
-                        <li class="sub-nav"><a href="courses.html">Courses<span class="icon"></span></a></li>
-                        <li class="sub-nav"><a href="courses2.html">Courses Two<span class="icon"></span></a></li>
-                        <li class="sub-nav"><a href="courses-details.html">Courses Details<span class="icon"></span></a></li>
-                    </ul>
-                </li>
-                <!--Courses Menu End-->
-                
-                <!--Events Menu Star-->
-                <li class="menu-item-has-children"><a href="#">Events</a>
-                    <ul class="list-unstyled">
-                        <li class="sub-nav"><a href="events.html">Events<span class="icon"></span></a></li>
-                        <li class="sub-nav"><a href="events-details.html">Events Details<span class="icon"></span></a></li>
-                    </ul>
-                </li>
-                <!--Events Menu End-->
-                
-                <!--blog Menu Star-->
-                <li class="menu-item-has-children"><a href="#">Blog</a>
-                    <ul class="list-unstyled">
-                        <li class="sub-nav"><a href="blog.html">Blog<span class="icon"></span></a></li>
-                        <li class="sub-nav"><a href="blog-details.html">Blog Details<span class="icon"></span></a></li>
-                    </ul>
-                </li>
-                <!--blog Menu End-->
-                <li><a href="contact.html">Contact<span class="icon"></span></a></li>
-        	</ul>
-            <div class="search-wrap"> 
-                <label class="screen-reader-text">Search for:</label> 
-                <input type="search" placeholder="Search..." name="s" class="search-input" value=""> 
-                <button type="submit" value="Search"><i class="fa fa-search"></i></button>
-            </div>
-        </nav>
-        <!-- Canvas Menu end -->
-        
-        <!-- Search Modal Start -->
-        <div aria-hidden="true" class="modal fade search-modal" role="dialog" tabindex="-1">
-        	<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-	          <span aria-hidden="true" class="fa fa-close"></span>
-	        </button>
-            <div class="modal-dialog modal-dialog-centered">
-                <div class="modal-content">
-                    <div class="search-block clearfix">
-                        <form>
-                            <div class="form-group">
-                                <input class="form-control" placeholder="eg: Computer Technology" type="text">
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Search Modal End --> 
         
         <!-- modernizr js -->
         <script src="js/modernizr-2.8.3.min.js"></script>
