@@ -10,7 +10,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- favicon -->
         <link rel="apple-touch-icon" href="apple-touch-icon.html">
-        <link rel="shortcut icon" type="image/x-icon" href="images/fav.png">
+        <link rel="shortcut icon" type="image/x-icon" href="images/slider/home1/schlogo.jpg">
         <!-- bootstrap v4 css -->
         <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
         <!-- font-awesome css -->
