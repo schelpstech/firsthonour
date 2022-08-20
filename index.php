@@ -176,7 +176,6 @@
 								            <!--Contact Menu End-->
 										</ul>
 									</nav>
-                                   8
 								</div>
 							</div>
 						</div>
