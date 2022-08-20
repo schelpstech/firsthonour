@@ -303,7 +303,7 @@
             <div class="container">
                 <div class="sec-title mb-50 text-center">
                     <h2>ABOUT US</h2>      
-                	<p> Founded October 8, 2014 with the sole mission of stimulating learners to become passionate lifelong learners. We have preschool, nursery, primary and secondary classes.</p>
+                	
 					<p>We provide all round education that inspires challenges and motivates our students to aim high. 
 					There is a wise saying that “knowledge can best be acquired through sound education. 
 					This is the reason why some people regard education as the foundation on which the great men and the great economists of the world depend.
@@ -324,7 +324,7 @@
                     <div class="col-lg-6 col-md-12">
                     	<div class="about-desc">
                 		    <h3> Welcome to First Honour Schools</h3>      
-                			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+                			<p> Founded October 8, 2014 with the sole mission of stimulating learners to become passionate lifelong learners. We have preschool, nursery, primary and secondary classes.</p>
                     	</div>
 						<div id="accordion" class="rs-accordion-style1">
 						    <div class="card">
