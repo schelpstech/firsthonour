@@ -107,7 +107,7 @@
 							</div>
 							<div class="col-md-4 col-sm-12">
 								<div class="logo-area text-center">
-									<a href="index.html"><img src="images/logo.png" alt="logo"></a>
+									<a href="index.html"><img src="images/slider/home1/logonew.png" alt="logo"></a>
 								</div>
 							</div>
 							<div class="col-md-4 col-sm-12">
@@ -303,8 +303,16 @@
             <div class="container">
                 <div class="sec-title mb-50 text-center">
                     <h2>ABOUT US</h2>      
-                	<p> Founded October 8, 2014 with the sole mission of stimulating learners to become passionate lifelong learners.<br>We have preschool, nursery, primary and secondary classes.</p>
-                </div>
+                	<p> Founded October 8, 2014 with the sole mission of stimulating learners to become passionate lifelong learners. We have preschool, nursery, primary and secondary classes.</p>
+					<p>We provide all round education that inspires challenges and motivates our students to aim high. 
+					There is a wise saying that “knowledge can best be acquired through sound education. 
+					This is the reason why some people regard education as the foundation on which the great men and the great economists of the world depend.
+					 For all human beings, therefore, education should be the first priority. Education should be regarded as a right of the child, not a privilege. 
+					 Since the young ones today are the leaders of tomorrow. Qualitative education should be given to every child because when you have one million children without education, 
+					 it translates to one million children without hope. The idea of First Honour School was conceived with a vision to raise a generation of youths that will stand out for transparency, accountability and excellence in all their endeavors;
+					  future leaders that will be incorruptible, disciplined and economically proficient;
+					 youth that will see Hard work as the secret of success and adopt it.</p>
+				</div>
                 <div class="row">
                     <div class="col-lg-6 col-md-12">
                         <div class="about-img rs-animation-hover">
@@ -621,63 +629,63 @@
 			<div class="container">
 				<div class="sec-title mb-50 text-center">
 					<h2 class="white-color">WHAT PEOPLE SAYS</h2>      
-					<p class="white-color">Fusce sem dolor, interdum in efficitur at, faucibus nec lorem. Sed nec molestie justo.</p>
+					<p class="white-color">Feedback from our highly esteemed parents.</p>
 				</div>
 				<div class="row">
 			        <div class="col-md-12">
 						<div  class="rs-carousel owl-carousel" data-loop="true" data-items="2" data-margin="30" data-autoplay="true" data-autoplay-timeout="5000" data-smart-speed="1200" data-dots="true" data-nav="true" data-nav-speed="false" data-mobile-device="1" data-mobile-device-nav="true" data-mobile-device-dots="true" data-ipad-device="2" data-ipad-device-nav="true" data-ipad-device-dots="true" data-md-device="2" data-md-device-nav="true" data-md-device-dots="true">
 			                <div class="testimonial-item">
 			                    <div class="testi-img">
-			                        <img src="images/testimonial/1.jpg" alt="Jhon Smith">
+								<img src="images/slider/home1/schlogo.jpg" alt="SchLogo">
 			                    </div>
 			                    <div class="testi-desc">
-			                        <h4 class="testi-name">Luise Henrikes</h4>
+			                        <h4 class="testi-name">Parent Feedback</h4>
 			                        <p>
-			                            Etiam non elit nec augue tempor gravida et sed velit. Aliquam tempus eget lorem ut malesuada. Phasellus dictum est sed libero posuere dignissim.
+									At First Honour, students are thought to be purpose driven. Yeah I have tasted a share of it.
 			                        </p>
 			                    </div>
 			                </div>
 					        <div class="testimonial-item">
 					            <div class="testi-img">
-					                <img src="images/testimonial/2.jpg" alt="Jhon Smith">
+								<img src="images/slider/home1/schlogo.jpg" alt="SchLogo">
 					            </div>
 					            <div class="testi-desc">
-					                <h4 class="testi-name">Aliana D’suza</h4>
+					                <h4 class="testi-name">Parent Feedback</h4>
 					                <p>
-					                    Tempor non elit nec augue nec gravida et sed velit. Aliquam tempus eget lorem ut malesuada. Phasellus dictum est sed libero posuere dignissim.
+									I am rest assured that at first Honour every child is important. It treats each pupil as an entity.
 					                </p>
 					            </div>
 					        </div>
 					        <div class="testimonial-item">
 					            <div class="testi-img">
-					                <img src="images/testimonial/3.jpg" alt="Jhon Smith">
+								<img src="images/slider/home1/schlogo.jpg" alt="SchLogo">
 					            </div>
 					            <div class="testi-desc">
-					                <h4 class="testi-name">Aliana D’suza</h4>
+								<h4 class="testi-name">Parent Feedback</h4>
 					                <p>
-					                    Tempor non elit nec augue nec gravida et sed velit. Aliquam tempus eget lorem ut malesuada. Phasellus dictum est sed libero posuere dignissim.
+									Yeah! I love first Honour Academy. Its practical orientation is dope, the laboratories are furnished and well utilized.
 					                </p>
 					            </div>
 					        </div>
 					        <div class="testimonial-item">
 					            <div class="testi-img">
-					                <img src="images/testimonial/4.jpg" alt="Jhon Smith">
+								<img src="images/slider/home1/schlogo.jpg" alt="SchLogo">
 					            </div>
 					            <div class="testi-desc">
-					                <h4 class="testi-name">Aliana D’suza</h4>
+								<h4 class="testi-name">Parent Feedback</h4>
 					                <p>
-					                    Tempor non elit nec augue nec gravida et sed velit. Aliquam tempus eget lorem ut malesuada. Phasellus dictum est sed libero posuere dignissim.
+									The school believes education cuts all sphere hence they pay attention to children skills and talent and meticulously help to grow in it. For me that’s why I made it my choice
 					                </p>
 					            </div>
 					        </div>
 					        <div class="testimonial-item">
 					            <div class="testi-img">
-					                <img src="images/testimonial/5.jpg" alt="Jhon Smith">
+								<img src="images/slider/home1/schlogo.jpg" alt="SchLogo">
 					            </div>
 					            <div class="testi-desc">
-					                <h4 class="testi-name">Aliana D’suza</h4>
+								<h4 class="testi-name">Parent Feedback</h4>
 					                <p>
-					                    Tempor non elit nec augue nec gravida et sed velit. Aliquam tempus eget lorem ut malesuada. Phasellus dictum est sed libero posuere dignissim.
+									For me, it’s the hostel! the matron is very hospitable such that the hostel is made home away from home. My kids never complained for once!
 					                </p>
 					            </div>
 					        </div>
@@ -761,9 +769,9 @@
                     <div class="row">
                         <div class="col-lg-4 col-md-12">
                             <div class="about-widget">
-                                <img src="images/logo-footer.png" alt="Footer Logo">
-                                <p>Founded October 8, 2014 with the sole mission of stimulating learners to become passionate lifelong learners.</p>
-                                <p class="margin-remove">We have preschool, nursery, primary and secondary classes.</p>
+                                <img src="images/slider/home1/logo.jpg" alt="Footer Logo">
+                                <p>At First Honour Schools your child will experience a total academic and intellectual rebranding which leads positive transformation. 
+									Choosing First Honour Schools for your child makes you a good human of better decision for the best future of the next generation.</p>
                             </div>
                         </div>
 					
