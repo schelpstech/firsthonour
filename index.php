@@ -77,7 +77,7 @@
 										<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
 									</ul>
 								</div>
-								<a href="#" class="apply-btn">Apply Now</a>
+								<a href="./admission/view/applicant/index.php" class="apply-btn">Apply Now</a>
 							</div>
 						</div>
 					</div>
@@ -617,7 +617,7 @@
                         <h2 class="white-color">Admission in progress for the 2022/2023 Academic Session </h2>      
                         <p class="white-color">You can complete all your application online.</p>
                     </div>
-				    <a class="cta-button" href="#">Click here to apply</a>
+				    <a class="cta-button" href="./admission/view/applicant/index.php">Click here to apply</a>
 				</div>
             </div>
         </div>
