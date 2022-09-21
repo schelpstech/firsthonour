@@ -559,6 +559,20 @@
 		</div>
 
 		<!-- Facilities End -->
+		        <!-- Calltoaction Start -->
+				<div id="rs-calltoaction" class="rs-calltoaction sec-spacer bg4">
+            <div class="container">
+                <div class="rs-cta-inner text-center">
+                    <div class="sec-title mb-50 text-center">
+                        <h2 class="white-color">Our's is a friendly and professional team </h2>      
+                        <p class="white-color">You can send us your updated curriculum vitae via email, we will review it and get back to you ASAP!.</p>
+                    </div>
+				    <a class="cta-button" href="mailto: hr@firsthonourschools.com.ng">Send us your CV</a>
+				</div>
+            </div>
+        </div>
+        <!-- Calltoaction End -->
+
 		<!-- Counter Up Section Start-->
         <div class="rs-counter pt-100 pb-70 bg3">
             <div class="container">
